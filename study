@@ -1,4 +1,5 @@
 check how telnet works
 check wireshark
 check nmap flags
+check external: true
 docker where volumes located? does docker create volumes with the id instead name, how to create name volume
